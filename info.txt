@@ -3,3 +3,6 @@ Added one more line after changing to branch as origin/master.
 Addtion of line to see the impact of git reset
 
 This change has been made once the changes have been made on new branch named swapnil
+
+This is the real time speech recognition and the implmentation of the same using the
+hardware device that is using the real time signal processing.
